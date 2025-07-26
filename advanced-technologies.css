@@ -4,6 +4,7 @@
     background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-static-website/arvrbg.png');
     background-size: cover;
     height: 100vh;
+    text-align: center
 }
 
 .main-heading {
